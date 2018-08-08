@@ -1,2 +1,2 @@
 # mythilimess
-Online Order Management for Mythili Mess
+Online Ordering Management for Mythili Mess
